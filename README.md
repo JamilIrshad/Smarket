@@ -33,3 +33,13 @@ To run Smarché, you need to have Java installed on your machine. You can downlo
    Use the following command to start the application:
    ```sh
    java -jar Smarché.jar
+
+4. **Follow On-Screen Instructions: Once the application launches, you can follow the on-screen instructions to log in or manage inventory.
+
+###Contributing
+**Contributions to Smarché are welcome! Please follow these guidelines for contributing:
+
+**Fork the Repository: Create a personal copy of the project on GitHub.
+**Create a Branch: Create a new branch for your changes.
+**Make Changes: Implement your changes and test thoroughly.
+**Submit a Pull Request: Open a pull request from your branch to the main repository.
